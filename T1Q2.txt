@@ -1,0 +1,1 @@
+alias code="cd ~/Documents/code/vaso0001_Final_Project"

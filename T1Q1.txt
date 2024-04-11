@@ -1,0 +1,7 @@
+Cd documents
+Ls-l
+Pwd
+mkdir vaso0001_Final_project
+touch T1Q1.txt
+vaso0001_Final_project
+touch T1Q1.txt
